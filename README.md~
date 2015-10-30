@@ -8,5 +8,5 @@ shabdkosh is very good and reliable Firefox extension designed to translate any 
 This is a restartless addon, which means you won't be required to restart the browser in order to enjoy its functionality.
 
 ##Add-on installation URL
-[someLabel](https://github.com/username/repoName/somePathTo/myExampleCode)
+Click [here](https://github.com/username/repoName/somePathTo/myExampleCode)
 
